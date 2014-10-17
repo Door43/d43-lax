@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lax:home|Door43 (lax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lax|d43-lax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lax/archive/master.zip|d43-lax.zip]]
+
+**Recent Changes**
+{{changes>ns = lax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lax|Ethnologue data]]
+
